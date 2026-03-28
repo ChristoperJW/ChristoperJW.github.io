@@ -5,11 +5,11 @@ body {
     padding-top: 300px;
 }
 h1 {
-    color: #ff0606;
+    color: #ff0606 !important;
 }
 h2 {
-    color: #fffb00;
+    color: #fffb00 !important;
 }
 h3 {
-    color: #00ff00ff;
+    color: #00ff00ff !important;
 }
