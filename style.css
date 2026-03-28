@@ -4,12 +4,12 @@ body {
     text-align: center;
     padding-top: 300px;
 }
-h1 {
-    color: #ff0606 !important;
+body h1 {
+    color: #ff0606;
 }
-h2 {
-    color: #fffb00 !important;
+body h2 {
+    color: #fffb00;
 }
-h3 {
-    color: #00ff00ff !important;
+body h3 {
+    color: #00ff00ff;
 }
